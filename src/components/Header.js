@@ -33,7 +33,7 @@ const Header = () => {
           </button>
           <div className="collapse navbar-collapse" id="navbarTogglerDemo02">
             <ul className="navbar-nav ms-auto ">
-              <li className="nav-item">
+              <li className="nav-item ms-5">
                 <NavLink
                   to="/"
                   className="nav-link homeclass"
@@ -52,7 +52,7 @@ const Header = () => {
                   </p>
                 </NavLink>
               </li>
-              <li className="nav-item">
+              <li className="nav-item mx-3">
                 <NavLink to="/about" className="nav-link homeclass">
                   <p className="d-flex flex-column menu-text">
                     <span>
@@ -64,7 +64,7 @@ const Header = () => {
                   </p>
                 </NavLink>
               </li>
-              <li className="nav-item">
+              <li className="nav-item mx-3 ">
                 <NavLink
                   to="/services"
                   className="nav-link homeclass"
@@ -133,7 +133,7 @@ const Header = () => {
                 </div>
               </li>
            
-              <li className="nav-item">
+              <li className="nav-item ">
                 <NavLink
                   to="/career"
                   className="nav-link homeclass"
@@ -150,7 +150,7 @@ const Header = () => {
                   </p>
                 </NavLink>
               </li>
-              <li className="nav-item">
+              <li className="nav-item ">
                 <NavLink
                   to="/blog"
                   className="nav-link homeclass"
@@ -168,7 +168,7 @@ const Header = () => {
                 </NavLink>
               </li>
 
-              <li className="nav-item mx-0">
+              <li className="nav-item mx-0 ">
                 <NavLink
                   to="/contact"
                   className="nav-link homeclass"
