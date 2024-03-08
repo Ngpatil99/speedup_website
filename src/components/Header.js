@@ -37,7 +37,8 @@ const Header = () => {
                 <NavLink
                   to="/"
                   className="nav-link homeclass"
-                  aria-current="page"
+                  aria-current="page" 
+                  id
                 >
                   <p className="d-flex flex-column menu-text">
                     <span>

@@ -46,11 +46,11 @@ function Ourmentors() {
                     Our mentors aren't just educators; they are top developers
                     who have honed their skills in real-world scenarios.{" "}
                   </p>
-                  <div className="fs-2 mt-3 benefit-arrow-container">
+                  {/* <div className="fs-2 mt-3 benefit-arrow-container">
                     <div className="arrow-scroller">
                       <ArrowRight color="white" size={30} />
                     </div>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>
@@ -73,11 +73,11 @@ function Ourmentors() {
                     you with invaluable insights and practical knowledge to
                     excel in the competitive world of IT.
                   </p>
-                  <div className="fs-2 mt-3 benefit-arrow-container">
+                  {/* <div className="fs-2 mt-3 benefit-arrow-container">
                     <div className="arrow-scroller">
                       <ArrowRight color="white" size={30} />
                     </div>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>
@@ -99,11 +99,11 @@ function Ourmentors() {
                     Your journey at SpeedUp Infotech is guided by mentors who
                     are committed to your success.{" "}
                   </p>
-                  <div className="fs-2 mt-3 benefit-arrow-container">
+                  {/* <div className="fs-2 mt-3 benefit-arrow-container">
                     <div className="arrow-scroller">
                       <ArrowRight color="white" size={30} />
                     </div>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>

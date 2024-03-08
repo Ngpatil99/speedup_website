@@ -80,8 +80,8 @@
   display: grid;
   place-items: center;
   width: 80vw;
-  /* max-width: 15.875rem; */
-  max-width: 22.875rem;
+ 
+  max-width: 20.875rem;
   height: 24.125rem;
   overflow: hidden;
   border-radius: 0.625rem;

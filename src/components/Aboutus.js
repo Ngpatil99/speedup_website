@@ -12,7 +12,7 @@ function Aboutus() {
   const handleShow = () => setShow(true);
   return (
     <>
-      <div className="container-fluid main-about-bg">
+      <div className="container-fluid main-about-bg" id="about">
         <div className="row mx-5">
           <div className="col-lg-6 col-md-6 col-sm-12">
             <div className="mx-5 main-img">
